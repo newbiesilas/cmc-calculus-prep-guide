@@ -1,0 +1,15 @@
+# Obsidian
+.obsidian/
+.obsidian/workspace*
+.trash/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Python 工具脚本产物
+__pycache__/
+*.pyc
