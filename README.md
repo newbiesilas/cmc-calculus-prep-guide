@@ -101,7 +101,7 @@ graph LR
 ### 在 Obsidian 中（推荐）
 
 ```bash
-git clone https://github.com/Kael-z-dev/cmc-calculus-prep-guide.git
+git clone https://github.com/newbiesilas/cmc-calculus-prep-guide.git
 ```
 
 然后用 Obsidian「打开文件夹作为库」选中该目录即可。
